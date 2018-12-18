@@ -109,6 +109,7 @@ def changing_alan
 end
 
 def adding_to_dennis
+	programmer_hash[:alan_kay][:known_for]
 	programmer_hash =
  		{
         :grace_hopper => {
@@ -126,4 +127,3 @@ def adding_to_dennis
      }
 
 end
-programmer_hash["alan_kay"]["known_for"]
